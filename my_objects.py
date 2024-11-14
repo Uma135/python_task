@@ -11,6 +11,6 @@ class Vehicle:
 
 v1 = Vehicle("Ford", "Mustang")
 print(v1.get_vehicle_details())
-v2 = Vehicle("BMW", "Mustang")
+v2 = Vehicle("BMW", "Mustan")
 
     
